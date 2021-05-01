@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://wallpaperaccess.com/full/117166.jpg);
+    height: 700vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+}
+
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+ul li.active a{
+    background-color: #fff;
+    color: #000;
+}
+
+.logo{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1{
+    color:#fff;
+    font-size: 70px;
+}
+
+.button{
+    position: absolute;
+    top: 60%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+.btn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.btn:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.Coco{
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+    position: absolute;
+    left:20%;
+    bottom:-50%;
+    transform: translate(-50%,-50%);
+}
+
+.CocoBtn{
+    position: absolute;
+    left:5.6%;
+    bottom:-37%;
+    transform: translate(-50%,-50%);
+}
+
+.cbtn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.cbtn:hover{
+    background-color: rgb(155, 80, 18);
+    color: #000;
+}
+
+.Omega{
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+    position: absolute;
+    left:20%;
+    bottom:-120%;
+    transform: translate(-50%,-50%);
+}
+
+.OmegaBtn{
+    position: absolute;
+    left:6.3%;
+    bottom:-110%;
+    transform: translate(-50%,-50%);
+}
+
+.Obtn{   
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.Obtn:hover{
+    background-color: rgb(204, 7, 7);
+    color: #000
+}
+
+.Kiwi{
+    position: absolute;
+    left:20%;
+    bottom:-190%;
+    transform: translate(-50%,-50%);
+    transition: 0.6s ease;
+}
+
+.KiwBtn{
+    position: absolute;
+    left:5.6%;
+    bottom:-180%;
+    transform: translate(-50%,-50%);
+}
+
+.Kbtn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.Kbtn:hover{
+    background-color: rgb(7, 204, 17);
+    color: #000;
+}
+
+.Shadow{
+    position: absolute;
+    left:20%;
+    bottom:-260%;
+    transform: translate(-50%,-50%);
+    transition: 0.6s ease;
+}
+
+.ShdBtn{
+    position: absolute;
+    left:5.6%;
+    bottom:-247%;
+    transform: translate(-50%,-50%);
+}
+
+.Shadbtn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.Shadbtn:hover{
+    background-color: rgb(7, 92, 204);
+    color: #000;
+}
+
+.Skisploit{
+    position: absolute;
+    left:20%;
+    bottom:-328%;
+    transform: translate(-50%,-50%);
+    transition: 0.6s ease;
+}
+
+.Sktbtn{
+    position: absolute;
+    left:5.6%;
+    bottom:-320%;
+    transform: translate(-50%,-50%);
+}
+
+.Skisbtn{
+    border:2px solid #fff;
+    padding: 11px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.Skisbtn:hover{
+    background-color: blueviolet;
+    color: black;
+}
+
+.Yoink{
+    position: absolute;
+    left:20%;
+    bottom:-400%;
+    transform: translate(-50%,-50%);
+    transition: 0.6s ease;
+}
+
+.YnkBtn{
+    position: absolute;
+    left:5.6%;
+    bottom:-390%;
+    transform: translate(-50%,-50%);
+}
+
+.YnkBtn{
+    border: 2px solid #fff;
+    padding: 11px 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.YnkBtn:hover{
+    background-color: rgb(26, 27, 29);
+    color: #000;
+}
+
+.Yoinkbtn{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+
